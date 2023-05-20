@@ -1,0 +1,14 @@
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.csproj.AssemblyReference.cache
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.csproj.SuggestedBindingRedirects.cache
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.Insert1.resources
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.DZ.resources
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.Properties.Resources.resources
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.SelectForm.resources
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.csproj.GenerateResource.cache
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.csproj.CoreCompileInputs.cache
+C:\Users\itstart\source\repos\deze\deze\bin\Debug\deze.exe.config
+C:\Users\itstart\source\repos\deze\deze\bin\Debug\deze.exe
+C:\Users\itstart\source\repos\deze\deze\bin\Debug\deze.pdb
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.exe
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.pdb
+C:\Users\itstart\source\repos\deze\deze\obj\Debug\deze.Insert2.resources
